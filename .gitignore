@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
-!**/src/main/**/config.properties
+!**/src/main/resources/config.properties
 !**/src/test/**/out/
 
 ### Eclipse ###
